@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/_78_1785162_white_home_icon_png_vector_royalty_free_download"
+        android:title="ss" />
+
+    <item
+        android:id="@+id/navigation_shopping"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="TODO" />
+
+    <item
+        android:id="@+id/navigation_user"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="TODO" />
+    <item
+        android:id="@+id/navigation_history"
+        android:title="TODO" />
+
+</menu>
